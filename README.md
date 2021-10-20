@@ -1,3 +1,3 @@
----
-permalink: /main.html
----
+
+main.html
+
